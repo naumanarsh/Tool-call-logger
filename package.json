@@ -1,0 +1,14 @@
+{
+  "name": "tool-logs-service",
+  "version": "1.0.0",
+  "description": "Small backend service for logging tool calls",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "sqlite3": "^5.1.7",
+    "winston": "^3.17.0"
+  }
+}

@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+
+# runtime artifacts
+app.log
+tool_logs.db
+
+# env files
+
+# OS/editor noise
+.DS_Store
+config.bat
